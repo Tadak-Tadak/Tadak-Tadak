@@ -57,6 +57,11 @@ Python은 ~~~~
 <h3>Collaboration</h3>
 <div>GitHub, Git, Discode, Notion, Exerd</div>
 
+<br>
+<br>
+
+<h2>📃 Git Commit 규칙 📃 </h2>
+
 
 
 
